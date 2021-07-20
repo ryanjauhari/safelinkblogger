@@ -9,6 +9,7 @@ Cukup tambahkan 2 div dan 1 skrip saja di HTML artikel kamu, maka kamu sudah bis
 
 
 **Mencegah Penyalagunaan**
+
 Banyak sekali teman-teman blogger yang doyan dan masih suka mencuri kode sumber orang lain dengam tujuan untuk dibagikan ulang secara komersil.
 dan parahnya lagi mereka mengubah nama variable, bahkan tidak menyertakan sumber kode sama sekali.
 Oleh karena itulah saya meng-enkripsi kode ini.
